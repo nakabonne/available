@@ -4,7 +4,7 @@ A command line tool that checks whether the entered domain is usable
 # Installation
 
 ```
-$ go get https://github.com/ryonakao/available.git
+$ go get github.com/ryonakao/available
 ```
 
 # Usage
