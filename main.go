@@ -22,3 +22,9 @@ func exists(domain string) (bool, error) {
 	}
 	return true, nil
 }
+
+var marks = map[bool]string{true: "OK", false: "NG"}
+
+func main() {
+
+}
